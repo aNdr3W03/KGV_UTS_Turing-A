@@ -1,0 +1,11 @@
+﻿  UTS_ColorOctagon.cpp
+E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\UTS_ColorOctagon\UTS_ColorOctagon.cpp(14,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\UTS_ColorOctagon\UTS_ColorOctagon.cpp(18,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\UTS_ColorOctagon\UTS_ColorOctagon.cpp(25,28): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\UTS_ColorOctagon\UTS_ColorOctagon.cpp(31,28): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\UTS_ColorOctagon\UTS_ColorOctagon.cpp(196,26): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\UTS_ColorOctagon\UTS_ColorOctagon.cpp(213,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\UTS_ColorOctagon\x64\Debug\vc120.pdb'; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  UTS_ColorOctagon.vcxproj -> E:\4. Programming\[2] PRACTICE - C++\[4] Tugas KGV\UTS_ColorOctagon\x64\Debug\UTS_ColorOctagon.exe
