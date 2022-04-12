@@ -11,7 +11,7 @@
 **4. 201401040 - Avin Chaili Salim**  
 
 **YouTube Video**  
-[![YouTube Video](screenshot/screenshot.jpg)](https://youtu.be/xxxxxxxxxxx)
+[![YouTube Video](screenshot/YouTube.png)](https://youtu.be/qzXf_ighbjs)
 
 # 
 # UTS KGV Kelompok Turing-A
