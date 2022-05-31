@@ -1,7 +1,7 @@
 # KGV_UTS_Turing-A
 #### Ujian Tengah Semester Mata Kuliah Komputer Grafik dan Visualisasi
 #### Dosen Pengampu: Jos Timanta Tarigan, S.Kom., M.Sc.
-#### Tahun Ajaran: Genap 2020/2021
+#### Tahun Ajaran: Genap 2021/2022
 #### Ilmu Komputer - Universitas Sumatera Utara
 
 # 
